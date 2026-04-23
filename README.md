@@ -90,8 +90,8 @@ POST /api/leads/:id/comments
 
 ## 🔗 Live Demo
 
-Frontend: ...  
-Backend: ...
+Frontend: https://lead-tracker-blush.vercel.app
+Backend: https://lead-tracker-st2g.onrender.com/api
 
 ---
 
