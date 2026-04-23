@@ -50,7 +50,7 @@ GET /api/leads
 POST /api/leads  
 
 Swagger:
-http://localhost:3000/api/docs
+https://lead-tracker-st2g.onrender.com/api/docs
 
 ---
 
